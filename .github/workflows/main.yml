@@ -67,3 +67,5 @@ jobs:
           
       - name: WAAS attacks
         run: bash files/exec.sh waas_attacks.sh
+        
+        vulnerable line of code
